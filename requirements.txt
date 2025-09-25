@@ -1,14 +1,4 @@
-# Data handling
-pandas==2.1.0
+streamlit==1.38.0
+pandas==2.2.2
+altair==5.3.0
 
-# GUI for chatbot
-tk==0.1.0
-
-# Optional for better visuals / web integration
-numpy==1.26.0
-
-# Optional if you use Flask for dynamic web pages
-Flask==2.3.4
-
-# Optional for advanced CSV handling / validation
-openpyxl==3.1.2
