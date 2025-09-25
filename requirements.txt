@@ -1,3 +1,19 @@
-pandas==2.0.3
-flask==2.2.5
-streamlit
+# Core libraries
+pandas==2.0.3      # last stable version that works with Python 3.13
+numpy==1.26.5      # compatible with pandas 2.0.x
+scikit-learn==1.3.2
+scipy==1.12.1
+
+# Web framework
+flask==2.3.3       # Flask 2.3.x is compatible with Python 3.13
+
+# Streamlit and UI
+streamlit==1.30.0
+rich==14.1.0
+markdown-it-py==4.0.0
+pygments==2.19.2
+mdurl==0.1.2
+
+# Optional, for GUI/chatbot enhancements
+pyttsx3==2.90
+
