@@ -1,0 +1,19 @@
+User: Create bedtime stories based on sleep hours.
+
+User: Create personalized soundscapes for relaxation.
+
+User: Turn dream journal entries into calming illustrations.
+
+User: Provide motivational messages and bedtime rituals.
+
+User: Analyze habits to predict the likelihood of vivid dreams.
+
+User: Blend favorite characters into custom dream-inspired stories.
+
+User: Suggest meditation exercises based on daily mood.
+
+User: Sync sleep data with wearables to adjust dream content.
+
+User: Transform sleep stats into colorful dream-style art.
+
+User: Chat with a friendly bot before bedtime to reduce stress.
