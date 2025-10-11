@@ -6,7 +6,7 @@ id,name,category,description,input_data,output_data,open_source,api,website
 5,DreamPredictor,Productivity,Analyzes habits to predict likelihood of vivid dreams. (Version 1),"sleep_hours,stress_level,activity_level",dream_prediction,No,Yes,https://dream-scope-predict-your-vivid-drea.vercel.app/ 
 6,DreamMix AI,Lifestyle,Blends your favorite characters into custom dream-inspired stories. (Version 1),dream_characters,personalized_story,Yes,No,https://ficti-dream-generator.vercel.app/ 
 7,DreamGuide AI,Entertainment,Suggests meditation exercises based on daily mood. (Version 1),"stress_level,mood",guided_meditation,No,Yes,https://mind-muse-ai-companion-05.vercel.app/
-8,SleepSync AI,Culture,Syncs sleep data with wearable devices to adjust dream content. (Version 1),wearable_data,adaptive_story,Yes,Yes,https://example.com/dreamweaver/tool8
+8,SleepSync AI,Culture,Syncs sleep data with wearable devices to adjust dream content. (Version 1),wearable_data,adaptive_story,Yes,Yes,https://dream-fusion-ai-dream-story-generat.vercel.app/
 9,DreamVisualizer,Sleep & Wellness,Transforms your sleep stats into colorful dream-style art. (Version 1),"sleep_hours,heart_rate",dream_art,No,No,https://example.com/dreamweaver/tool9
 10,DreamBuddy AI,Wellness,A friendly chatbot that chats before bedtime to reduce stress. (Version 1),"mood,stress_level",conversation,Yes,Yes,https://example.com/dreamweaver/tool10
 11,DreamWeaver Core v2,Health,Generates bedtime stories based on sleep duration and stress level. (Version 2),"sleep_hours,stress_level",recipe,No,Yes,https://dream-weaver-sleep-aware-bedtime-st.vercel.app/ 
@@ -16,7 +16,7 @@ id,name,category,description,input_data,output_data,open_source,api,website
 15,DreamPredictor v2,Entertainment,Analyzes habits to predict likelihood of vivid dreams. (Version 2),"sleep_hours,stress_level,activity_level",affirmation,No,No,https://dream-scope-predict-your-vivid-drea.vercel.app/ 
 16,DreamMix AI v2,Culture,Blends your favorite characters into custom dream-inspired stories. (Version 2),dream_characters,journal_summary,Yes,Yes,https://ficti-dream-generator.vercel.app/ 
 17,DreamGuide AI v2,Sleep & Wellness,Suggests meditation exercises based on daily mood. (Version 2),"stress_level,mood",therapy_tip,No,Yes,https://mind-muse-ai-companion-05.vercel.app/
-18,SleepSync AI v2,Wellness,Syncs sleep data with wearable devices to adjust dream content. (Version 2),wearable_data,kids_story,Yes,No,https://example.com/dreamweaver/tool18
+18,SleepSync AI v2,Wellness,Syncs sleep data with wearable devices to adjust dream content. (Version 2),wearable_data,kids_story,Yes,No,https://dream-fusion-ai-dream-story-generat.vercel.app/
 19,DreamVisualizer v2,Health,Transforms your sleep stats into colorful dream-style art. (Version 2),"sleep_hours,heart_rate",focus_tips,No,Yes,https://example.com/dreamweaver/tool19
 20,DreamBuddy AI v2,Fitness,A friendly chatbot that chats before bedtime to reduce stress. (Version 2),"mood,stress_level",cultural_interpretation,Yes,Yes,https://example.com/dreamweaver/tool20
 21,DreamWeaver Core v3,Productivity,Generates bedtime stories based on sleep duration and stress level. (Version 3),"sleep_hours,stress_level",bedtime_story,No,No,https://dream-weaver-sleep-aware-bedtime-st.vercel.app/ 
@@ -26,7 +26,7 @@ id,name,category,description,input_data,output_data,open_source,api,website
 25,DreamPredictor v3,Sleep & Wellness,Analyzes habits to predict likelihood of vivid dreams. (Version 3),"sleep_hours,stress_level,activity_level",dream_prediction,No,Yes,https://dream-scope-predict-your-vivid-drea.vercel.app/ 
 26,DreamMix AI v3,Wellness,Blends your favorite characters into custom dream-inspired stories. (Version 3),dream_characters,personalized_story,Yes,Yes,https://ficti-dream-generator.vercel.app/ 
 27,DreamGuide AI v3,Health,Suggests meditation exercises based on daily mood. (Version 3),"stress_level,mood",guided_meditation,No,No,https://mind-muse-ai-companion-05.vercel.app/
-28,SleepSync AI v3,Fitness,Syncs sleep data with wearable devices to adjust dream content. (Version 3),wearable_data,adaptive_story,Yes,Yes,https://example.com/dreamweaver/tool28
+28,SleepSync AI v3,Fitness,Syncs sleep data with wearable devices to adjust dream content. (Version 3),wearable_data,adaptive_story,Yes,Yes,https://dream-fusion-ai-dream-story-generat.vercel.app/
 29,DreamVisualizer v3,Productivity,Transforms your sleep stats into colorful dream-style art. (Version 3),"sleep_hours,heart_rate",dream_art,No,Yes,https://example.com/dreamweaver/tool29
 30,DreamBuddy AI v3,Lifestyle,A friendly chatbot that chats before bedtime to reduce stress. (Version 3),"mood,stress_level",conversation,Yes,No,https://example.com/dreamweaver/tool30
 31,DreamWeaver Core v4,Entertainment,Generates bedtime stories based on sleep duration and stress level. (Version 4),"sleep_hours,stress_level",recipe,No,Yes,https://dream-weaver-sleep-aware-bedtime-st.vercel.app/ 
@@ -36,7 +36,7 @@ id,name,category,description,input_data,output_data,open_source,api,website
 35,DreamPredictor v4,Health,Analyzes habits to predict likelihood of vivid dreams. (Version 4),"sleep_hours,stress_level,activity_level",affirmation,No,Yes,https://dream-scope-predict-your-vivid-drea.vercel.app/ 
 36,DreamMix AI v4,Fitness,Blends your favorite characters into custom dream-inspired stories. (Version 4),dream_characters,journal_summary,Yes,No,https://ficti-dream-generator.vercel.app/ 
 37,DreamGuide AI v4,Productivity,Suggests meditation exercises based on daily mood. (Version 4),"stress_level,mood",therapy_tip,No,Yes,https://mind-muse-ai-companion-05.vercel.app/
-38,SleepSync AI v4,Lifestyle,Syncs sleep data with wearable devices to adjust dream content. (Version 4),wearable_data,kids_story,Yes,Yes,https://example.com/dreamweaver/tool38
+38,SleepSync AI v4,Lifestyle,Syncs sleep data with wearable devices to adjust dream content. (Version 4),wearable_data,kids_story,Yes,Yes,https://dream-fusion-ai-dream-story-generat.vercel.app/
 39,DreamVisualizer v4,Entertainment,Transforms your sleep stats into colorful dream-style art. (Version 4),"sleep_hours,heart_rate",focus_tips,No,No,https://example.com/dreamweaver/tool39
 40,DreamBuddy AI v4,Culture,A friendly chatbot that chats before bedtime to reduce stress. (Version 4),"mood,stress_level",cultural_interpretation,Yes,Yes,https://example.com/dreamweaver/tool40
 41,DreamWeaver Core v5,Sleep & Wellness,Generates bedtime stories based on sleep duration and stress level. (Version 5),"sleep_hours,stress_level",bedtime_story,No,Yes,https://dream-weaver-sleep-aware-bedtime-st.vercel.app/ 
@@ -46,7 +46,7 @@ id,name,category,description,input_data,output_data,open_source,api,website
 45,DreamPredictor v5,Productivity,Analyzes habits to predict likelihood of vivid dreams. (Version 5),"sleep_hours,stress_level,activity_level",dream_prediction,No,No,https://dream-scope-predict-your-vivid-drea.vercel.app/ 
 46,DreamMix AI v5,Lifestyle,Blends your favorite characters into custom dream-inspired stories. (Version 5),dream_characters,personalized_story,Yes,Yes,https://ficti-dream-generator.vercel.app/ 
 47,DreamGuide AI v5,Entertainment,Suggests meditation exercises based on daily mood. (Version 5),"stress_level,mood",guided_meditation,No,Yes,https://mind-muse-ai-companion-05.vercel.app/
-48,SleepSync AI v5,Culture,Syncs sleep data with wearable devices to adjust dream content. (Version 5),wearable_data,adaptive_story,Yes,No,https://example.com/dreamweaver/tool48
+48,SleepSync AI v5,Culture,Syncs sleep data with wearable devices to adjust dream content. (Version 5),wearable_data,adaptive_story,Yes,No,https://dream-fusion-ai-dream-story-generat.vercel.app/
 49,DreamVisualizer v5,Sleep & Wellness,Transforms your sleep stats into colorful dream-style art. (Version 5),"sleep_hours,heart_rate",dream_art,No,Yes,https://example.com/dreamweaver/tool49
 50,DreamBuddy AI v5,Wellness,A friendly chatbot that chats before bedtime to reduce stress. (Version 5),"mood,stress_level",conversation,Yes,Yes,https://example.com/dreamweaver/tool50
 51,DreamWeaver Core v6,Health,Generates bedtime stories based on sleep duration and stress level. (Version 6),"sleep_hours,stress_level",recipe,No,No,https://dream-weaver-sleep-aware-bedtime-st.vercel.app/ 
@@ -56,7 +56,7 @@ id,name,category,description,input_data,output_data,open_source,api,website
 55,DreamPredictor v6,Entertainment,Analyzes habits to predict likelihood of vivid dreams. (Version 6),"sleep_hours,stress_level,activity_level",affirmation,No,Yes,https://dream-scope-predict-your-vivid-drea.vercel.app/ 
 56,DreamMix AI v6,Culture,Blends your favorite characters into custom dream-inspired stories. (Version 6),dream_characters,journal_summary,Yes,Yes,https://ficti-dream-generator.vercel.app/ 
 57,DreamGuide AI v6,Sleep & Wellness,Suggests meditation exercises based on daily mood. (Version 6),"stress_level,mood",therapy_tip,No,No,https://mind-muse-ai-companion-05.vercel.app/
-58,SleepSync AI v6,Wellness,Syncs sleep data with wearable devices to adjust dream content. (Version 6),wearable_data,kids_story,Yes,Yes,https://example.com/dreamweaver/tool58
+58,SleepSync AI v6,Wellness,Syncs sleep data with wearable devices to adjust dream content. (Version 6),wearable_data,kids_story,Yes,Yes,https://dream-fusion-ai-dream-story-generat.vercel.app/
 59,DreamVisualizer v6,Health,Transforms your sleep stats into colorful dream-style art. (Version 6),"sleep_hours,heart_rate",focus_tips,No,Yes,https://example.com/dreamweaver/tool59
 60,DreamBuddy AI v6,Fitness,A friendly chatbot that chats before bedtime to reduce stress. (Version 6),"mood,stress_level",cultural_interpretation,Yes,No,https://example.com/dreamweaver/tool60
 61,DreamWeaver Core v7,Productivity,Generates bedtime stories based on sleep duration and stress level. (Version 7),"sleep_hours,stress_level",bedtime_story,No,Yes,https://dream-weaver-sleep-aware-bedtime-st.vercel.app/ 
@@ -66,7 +66,7 @@ id,name,category,description,input_data,output_data,open_source,api,website
 65,DreamPredictor v7,Sleep & Wellness,Analyzes habits to predict likelihood of vivid dreams. (Version 7),"sleep_hours,stress_level,activity_level",dream_prediction,No,Yes,https://dream-scope-predict-your-vivid-drea.vercel.app/ 
 66,DreamMix AI v7,Wellness,Blends your favorite characters into custom dream-inspired stories. (Version 7),dream_characters,personalized_story,Yes,No,https://ficti-dream-generator.vercel.app/ 
 67,DreamGuide AI v7,Health,Suggests meditation exercises based on daily mood. (Version 7),"stress_level,mood",guided_meditation,No,Yes,https://mind-muse-ai-companion-05.vercel.app/
-68,SleepSync AI v7,Fitness,Syncs sleep data with wearable devices to adjust dream content. (Version 7),wearable_data,adaptive_story,Yes,Yes,https://example.com/dreamweaver/tool68
+68,SleepSync AI v7,Fitness,Syncs sleep data with wearable devices to adjust dream content. (Version 7),wearable_data,adaptive_story,Yes,Yes,https://dream-fusion-ai-dream-story-generat.vercel.app/
 69,DreamVisualizer v7,Productivity,Transforms your sleep stats into colorful dream-style art. (Version 7),"sleep_hours,heart_rate",dream_art,No,No,https://example.com/dreamweaver/tool69
 70,DreamBuddy AI v7,Lifestyle,A friendly chatbot that chats before bedtime to reduce stress. (Version 7),"mood,stress_level",conversation,Yes,Yes,https://example.com/dreamweaver/tool70
 71,DreamWeaver Core v8,Entertainment,Generates bedtime stories based on sleep duration and stress level. (Version 8),"sleep_hours,stress_level",recipe,No,Yes,https://dream-weaver-sleep-aware-bedtime-st.vercel.app/ 
@@ -76,7 +76,7 @@ id,name,category,description,input_data,output_data,open_source,api,website
 75,DreamPredictor v8,Health,Analyzes habits to predict likelihood of vivid dreams. (Version 8),"sleep_hours,stress_level,activity_level",affirmation,No,No,https://dream-scope-predict-your-vivid-drea.vercel.app/ 
 76,DreamMix AI v8,Fitness,Blends your favorite characters into custom dream-inspired stories. (Version 8),dream_characters,journal_summary,Yes,Yes,https://ficti-dream-generator.vercel.app/ 
 77,DreamGuide AI v8,Productivity,Suggests meditation exercises based on daily mood. (Version 8),"stress_level,mood",therapy_tip,No,Yes,https://mind-muse-ai-companion-05.vercel.app/
-78,SleepSync AI v8,Lifestyle,Syncs sleep data with wearable devices to adjust dream content. (Version 8),wearable_data,kids_story,Yes,No,https://example.com/dreamweaver/tool78
+78,SleepSync AI v8,Lifestyle,Syncs sleep data with wearable devices to adjust dream content. (Version 8),wearable_data,kids_story,Yes,No,https://dream-fusion-ai-dream-story-generat.vercel.app/
 79,DreamVisualizer v8,Entertainment,Transforms your sleep stats into colorful dream-style art. (Version 8),"sleep_hours,heart_rate",focus_tips,No,Yes,https://example.com/dreamweaver/tool79
 80,DreamBuddy AI v8,Culture,A friendly chatbot that chats before bedtime to reduce stress. (Version 8),"mood,stress_level",cultural_interpretation,Yes,Yes,https://example.com/dreamweaver/tool80
 81,DreamWeaver Core v9,Sleep & Wellness,Generates bedtime stories based on sleep duration and stress level. (Version 9),"sleep_hours,stress_level",bedtime_story,No,No,https://dream-weaver-sleep-aware-bedtime-st.vercel.app/ 
@@ -86,7 +86,7 @@ id,name,category,description,input_data,output_data,open_source,api,website
 85,DreamPredictor v9,Productivity,Analyzes habits to predict likelihood of vivid dreams. (Version 9),"sleep_hours,stress_level,activity_level",dream_prediction,No,Yes,https://dream-scope-predict-your-vivid-drea.vercel.app/ 
 86,DreamMix AI v9,Lifestyle,Blends your favorite characters into custom dream-inspired stories. (Version 9),dream_characters,personalized_story,Yes,Yes,https://ficti-dream-generator.vercel.app/ 
 87,DreamGuide AI v9,Entertainment,Suggests meditation exercises based on daily mood. (Version 9),"stress_level,mood",guided_meditation,No,No,https://mind-muse-ai-companion-05.vercel.app/
-88,SleepSync AI v9,Culture,Syncs sleep data with wearable devices to adjust dream content. (Version 9),wearable_data,adaptive_story,Yes,Yes,https://example.com/dreamweaver/tool88
+88,SleepSync AI v9,Culture,Syncs sleep data with wearable devices to adjust dream content. (Version 9),wearable_data,adaptive_story,Yes,Yes,https://dream-fusion-ai-dream-story-generat.vercel.app/
 89,DreamVisualizer v9,Sleep & Wellness,Transforms your sleep stats into colorful dream-style art. (Version 9),"sleep_hours,heart_rate",dream_art,No,Yes,https://example.com/dreamweaver/tool89
 90,DreamBuddy AI v9,Wellness,A friendly chatbot that chats before bedtime to reduce stress. (Version 9),"mood,stress_level",conversation,Yes,No,https://example.com/dreamweaver/tool90
 91,DreamWeaver Core v10,Health,Generates bedtime stories based on sleep duration and stress level. (Version 10),"sleep_hours,stress_level",recipe,No,Yes,https://dream-weaver-sleep-aware-bedtime-st.vercel.app/ 
@@ -96,8 +96,9 @@ id,name,category,description,input_data,output_data,open_source,api,website
 95,DreamPredictor v10,Entertainment,Analyzes habits to predict likelihood of vivid dreams. (Version 10),"sleep_hours,stress_level,activity_level",affirmation,No,Yes,https://dream-scope-predict-your-vivid-drea.vercel.app/ 
 96,DreamMix AI v10,Culture,Blends your favorite characters into custom dream-inspired stories. (Version 10),dream_characters,journal_summary,Yes,No,https://ficti-dream-generator.vercel.app/ 
 97,DreamGuide AI v10,Sleep & Wellness,Suggests meditation exercises based on daily mood. (Version 10),"stress_level,mood",therapy_tip,No,Yes,https://mind-muse-ai-companion-05.vercel.app/
-98,SleepSync AI v10,Wellness,Syncs sleep data with wearable devices to adjust dream content. (Version 10),wearable_data,kids_story,Yes,Yes,https://example.com/dreamweaver/tool98
+98,SleepSync AI v10,Wellness,Syncs sleep data with wearable devices to adjust dream content. (Version 10),wearable_data,kids_story,Yes,Yes,https://dream-fusion-ai-dream-story-generat.vercel.app/
 99,DreamVisualizer v10,Health,Transforms your sleep stats into colorful dream-style art. (Version 10),"sleep_hours,heart_rate",focus_tips,No,No,https://example.com/dreamweaver/tool99
 100,DreamBuddy AI v10,Fitness,A friendly chatbot that chats before bedtime to reduce stress. (Version 10),"mood,stress_level",cultural_interpretation,Yes,Yes,https://example.com/dreamweaver/tool100
+
 
 
